@@ -1,0 +1,150 @@
+
+.table100.ver3 {
+    background-color: #393939;
+  }
+  
+  .table100.ver3 th {
+    font-family: Poppins;
+    font-size: 20px;
+    color: #00ad5f;
+    line-height: 1.4;
+    text-transform: uppercase;
+    background-color: #393939;
+  }
+  
+  .table100.ver3 td {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: white;
+    line-height: 1.4;
+    background-color: #222222;
+  }
+  .table100.ver3 .view-post {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: blue;
+    line-height: 1.4;
+    text-decoration: underline;
+    background-color: #222222;
+  }
+  
+  
+  /*---------------------------------------------*/
+  
+  .table100.ver3 {
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 0px 40px 0px rgba(0, 0, 0, 0.15);
+    -moz-box-shadow: 0 0px 40px 0px rgba(0, 0, 0, 0.15);
+    -webkit-box-shadow: 0 0px 40px 0px rgba(0, 0, 0, 0.15);
+    -o-box-shadow: 0 0px 40px 0px rgba(0, 0, 0, 0.15);
+    -ms-box-shadow: 0 0px 40px 0px rgba(0, 0, 0, 0.15);
+  }
+  
+  .table100.ver3 .ps__rail-y {
+    right: 5px;
+  }
+  
+  .table100.ver3 .ps__rail-y::before {
+    background-color: #4e4e4e;
+  }
+  
+  .table100.ver3 .ps__rail-y .ps__thumb-y::before {
+    background-color: #00ad5f;
+  }
+  .articletitle
+{
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 42px;
+line-height: 51px;
+letter-spacing: 0.1em;
+
+color: #4E5DE1;
+}
+.container-article
+{
+    background: hsl(0, 0%, 100%);
+    width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.cornerarticle
+{
+    position: absolute;
+    width: 140px;
+    height: 102px;
+
+background: #FFC408;
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 27px;
+letter-spacing: 0.1em;
+
+color: #FFFFFF;
+align-items: center;
+border-bottom-right-radius: 150px;
+
+    
+}
+.articletext
+{
+
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 175.4%;
+    /* or 26px */
+    
+    letter-spacing: 0.205em;
+    
+    color: #4D4C4C;
+    
+}
+.articlebutton
+{
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+letter-spacing: 0.1em;
+
+color: #FFFFFF;
+}
+.greyarticle
+{
+    width: 1264px;
+height: 520.5px;
+}
+.comment-show
+{
+    float: right;
+    border: 1px solid red;
+                padding: 9px 29px;
+                border-radius: 10px;
+                background: red;
+                color: white;
+                font-weight: 500;
+}
+.comment-header
+{
+    float:right;
+    margin-bottom: 10px;
+    border: 1px solid red;
+    padding: 9px 29px;
+    border-radius: 10px;
+    background: red;
+    color: white;
+    font-weight: 500;
+
+}
